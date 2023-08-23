@@ -1,7 +1,7 @@
 # Other Works
 Explore my collection of cybersecurity tools and projects. From hash calculations to hidden text generation, I have developed and programmed a diverse array of solutions aimed at bolstering online security and privacy.
 
-## Tools by H3SEC
+## Tools by h3st4k3r
 
 <ol>
     <li>
