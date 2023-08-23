@@ -36,4 +36,9 @@ Explore my collection of cybersecurity tools and projects. From hash calculation
         <a href="https://tools.h3sec.com/public/esteganografia.php" target="_blank">🖼️ Steganography:</a> 
         Steganography is a technique that hides information within another medium, such as images or audio files. This tool facilitates the insertion and extraction of hidden data for security and privacy purposes. Still in development.
     </li>
+    <li>
+    <a href="https://tools.h3sec.com/public/metadata.php" target="_blank">📄 Metadata:</a> 
+    Metadata is a tool for extracting and analyzing metadata information from images and other files. It helps you view and understand the hidden data within your files, which can be essential for security and privacy purposes.
+</li>
+
 </ol>
